@@ -1,2 +1,2 @@
 # frontend-survival
-be wise
+build wisely
